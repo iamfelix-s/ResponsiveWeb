@@ -1,3 +1,5 @@
+![image](https://github.com/iamfelix-s/ResponsiveWeb/assets/55951750/08ca0620-0d11-4adf-988e-34b5b0128434)
+
 # Food Website Copyright Information
 
 ## Introduction
