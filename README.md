@@ -6,7 +6,7 @@ Welcome to the README file for the copyright information of your food website. T
 
 ## Copyright Notice
 
-**[Your Food Website Name]** and all its content, including but not limited to text, images, videos, graphics, and logos, are the intellectual property of [Your Name or Your Company Name]. All rights are reserved. The content on this website is protected by copyright laws and other intellectual property rights.
+**ITC.LTD** and all its content, including but not limited to text, images, videos, graphics, and logos, are the intellectual property of ITC.LTD. All rights are reserved. The content on this website is protected by copyright laws and other intellectual property rights.
 
 ## Permitted Use
 
@@ -27,7 +27,7 @@ Users are expressly prohibited from:
 
 ## Copyright Violations
 
-[Your Name or Your Company Name] takes copyright violations seriously. If you believe that your work has been used on our website in a manner that constitutes copyright infringement, please contact us promptly with the following information:
+ITC's takes copyright violations seriously. If you believe that your work has been used on our website in a manner that constitutes copyright infringement, please contact us promptly with the following information:
 
 - Your name and contact information.
 - A description of the copyrighted work that you believe has been infringed.
@@ -37,7 +37,7 @@ Users are expressly prohibited from:
 
 ## Contact Information
 
-For any copyright-related inquiries or notifications, please contact us at [your contact email address].
+For any copyright-related inquiries or notifications, please contact us at pbf.benny@gmail.com.
 
 ## Disclaimer
 
@@ -47,4 +47,4 @@ This README.md file is provided as a template for informational purposes only an
 
 This copyright notice and usage policy may be updated from time to time to reflect changes in the law or the operation of your website. Users are encouraged to review this page regularly for any updates or changes.
 
-By using [Your Food Website Name], you agree to comply with the terms and conditions outlined in this copyright notice. Failure to adhere to these terms may result in legal action.
+By using ITC's, you agree to comply with the terms and conditions outlined in this copyright notice. Failure to adhere to these terms may result in legal action.
