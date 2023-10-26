@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Welcome to the README file for the copyright information of your food website. This document provides essential information regarding copyright protection and usage of content on your website. It is essential to ensure that your website's content and intellectual property rights are protected, and users are aware of the terms and conditions surrounding the use of your website.
+Welcome to the README file for the copyright information of our food/AI website. This document provides essential information regarding copyright protection and usage of content on your website. It is essential to ensure that your website's content and intellectual property rights are protected, and users are aware of the terms and conditions surrounding the use of your website.
 
 ## Copyright Notice
 
