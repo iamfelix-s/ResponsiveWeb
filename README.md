@@ -1,6 +1,6 @@
 ![image](https://github.com/iamfelix-s/ResponsiveWeb/assets/55951750/08ca0620-0d11-4adf-988e-34b5b0128434)
 
-# Food Website Copyright Information
+# Food/AI Website Copyright Information
 
 ## Introduction
 
@@ -8,7 +8,7 @@ Welcome to the README file for the copyright information of your food website. T
 
 ## Copyright Notice
 
-**ITC.LTD** and all its content, including but not limited to text, images, videos, graphics, and logos, are the intellectual property of ITC.LTD. All rights are reserved. The content on this website is protected by copyright laws and other intellectual property rights.
+**ITC.LTD, GenerativeAI** and all its content, including but not limited to text, images, videos, graphics, and logos, are the intellectual property of ITC.LTD. All rights are reserved. The content on this website is protected by copyright laws and other intellectual property rights.
 
 ## Permitted Use
 
@@ -49,4 +49,4 @@ This README.md file is provided as a template for informational purposes only an
 
 This copyright notice and usage policy may be updated from time to time to reflect changes in the law or the operation of your website. Users are encouraged to review this page regularly for any updates or changes.
 
-By using ITC's, you agree to comply with the terms and conditions outlined in this copyright notice. Failure to adhere to these terms may result in legal action.
+By using ITC's / GenerativeAI, you agree to comply with the terms and conditions outlined in this copyright notice. Failure to adhere to these terms may result in legal action.
