@@ -11,6 +11,6 @@ Responsive Web Copyright is a repository that showcases a responsive web design 
 ## Features
 
 - Responsive design for optimal viewing across various devices and screen sizes.
-- HTML5 and CSS3 compliant.
+- HTML5 and CSS3 and JS compliant.
 - Copyright-related content layout for easy integration into your project.
 - Easily customizable to suit your specific copyright requirements.
